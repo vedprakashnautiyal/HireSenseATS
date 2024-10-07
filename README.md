@@ -1,5 +1,5 @@
 
-# Satya: AI-Powered Resume Screening and Recommendation Analysis
+# HireSenseATS: AI-Powered Resume Screening and Recommendation Analysis
 
 ## Introduction
 
