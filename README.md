@@ -43,8 +43,8 @@ The project is divided into three main parts:
 ## Installation
 
 ```bash
-git clone https://github.com/your-repo/satya.git
-cd satya
+git clone https://github.com/HireSenseATS.git
+cd HireSenseATS
 pip install -r requirements.txt
 ```
 
