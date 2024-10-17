@@ -104,7 +104,7 @@ The project outputs:
 - Enhance recommendation credibility by matching company names and work terms
 - Implement continuous learning to improve fraud detection accuracy
 
-# Application/UI for Satya
+# Application/UI
 
 ## Features
 - Candidate database browsing with pagination
@@ -128,9 +128,9 @@ The project outputs:
    pip install -r requirements.txt
    ```
 
-2. Set up your Groq API key:
+2. Set up your API key:
    - Create a `.env` file in the project root
-   - Add your Groq API key: `GROQ_API_KEY=your_api_key_here`
+   - Add your Groq API key: `API_KEY=your_api_key_here`
 
 ## Usage
 1. Ensure you have the necessary CSV files in the project directory:
