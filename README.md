@@ -43,7 +43,7 @@ The project is divided into three main parts:
 ## Installation
 
 ```bash
-git clone https://github.com/HireSenseATS.git
+git clone https://github.com/vedprakashnautiyal/HireSenseATS.git
 cd HireSenseATS
 pip install -r requirements.txt
 ```
