@@ -237,7 +237,7 @@ else:
                     st.markdown(f"<h3 style='font-size: 30px;'>Displaying profile for ID: {profile_id}</h3>", unsafe_allow_html=True)
                     
                     # Example PDF link
-                    pdf_link = f"C:/Users/subar/OneDrive/Desktop/8Fold/Final_Resumes/Resume_of_ID_{profile_id}.pdf"  
+                    pdf_link = f"/Users/Final_Resumes/Resume_of_ID_{profile_id}.pdf"  
                     pdf_display_name = f"Resume of ID {profile_id}"
                     # Display the PDF link
                     st.markdown(f"[{pdf_display_name}]({pdf_link})", unsafe_allow_html=True)
